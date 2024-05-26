@@ -172,6 +172,7 @@
 
   .sidebar {
     order: 1;
+    display: flex;
 
     div {
       margin: 5px;
@@ -181,12 +182,8 @@
     h1 {
       font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
         sans-serif;
-      margin-top: -20px;
+      margin-top: 30px;
       float: left;
-    }
-
-    img {
-      display: none;
     }
 
     // Hide the sidebar links in mobile view

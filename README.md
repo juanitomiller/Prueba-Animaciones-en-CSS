@@ -1,6 +1,8 @@
-# Desaf-o-LayoutdeecommerceconGrid
+Prueba Final CSS
 
 
-LINK GITHUB PAGE: https://juanitomiller.github.io/Desaf-o-Electric-Car-Store/
+LINK GITHUB PAGE: https://juanitomiller.github.io/Prueba-Animaciones-en-CSS/
+
+
 INFORMACION: SOLO AGREGE EL MEDIAQUERY PARA SMARTPHONE Y DEJE LA VERSION DESKTOP COMO NATIVA,
 CON LAS MEDIDAS INDICADAS.

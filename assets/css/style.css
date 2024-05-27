@@ -41,6 +41,7 @@
 }
 
 .sidebar h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   font-size: 30px;
   color: #06eb2c;
 }
@@ -56,6 +57,10 @@
   color: white;
   padding: 12px;
   text-decoration: none;
+}
+
+.sidebar a:hover {
+  transform: scale(1.2);
 }
 
 .sidebar button {
